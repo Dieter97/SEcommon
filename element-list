@@ -1,0 +1,12 @@
+be.uantwerpen.labplanner.common.model.device
+be.uantwerpen.labplanner.common.model.file
+be.uantwerpen.labplanner.common.model.stock
+be.uantwerpen.labplanner.common.model.tag
+be.uantwerpen.labplanner.common.repository.device
+be.uantwerpen.labplanner.common.repository.file
+be.uantwerpen.labplanner.common.repository.stock
+be.uantwerpen.labplanner.common.repository.tag
+be.uantwerpen.labplanner.common.service.device
+be.uantwerpen.labplanner.common.service.file
+be.uantwerpen.labplanner.common.service.stock
+be.uantwerpen.labplanner.common.service.tag
